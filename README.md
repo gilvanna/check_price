@@ -4,7 +4,7 @@ Script para monitorar o preço de estadia do Cana Brava Resort e enviar um e-mai
 
 ## Requisitos
 
-- Node.js 18+
+- Node.js 24+
 - Dependências do projeto
 - Variáveis de ambiente Gmail:
   - `EMAIL_USER`
